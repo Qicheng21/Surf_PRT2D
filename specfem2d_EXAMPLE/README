@@ -1,0 +1,11 @@
+# This folder includes necessary files to reproduce wavefield simulation used in Zeng et al., 2024 GJI 1psi
+# specfem2d 7.0 is used by the time of the research. specfem2d package need to tbe downloaded and installed before the usage.   
+##################DATA 
+#EXAMPLE Parameter files for specfem2d used for wavefield simulation
+# Par_file is the general parameter file for specfem2d, customized for research purpose in Zeng et al., 2024 GJI
+# Model setting is defined inside Par_file, same as described in Zeng et al., 2024 GJI
+# SOURCE file need to be replaced by following two files
+# SOURCE_L_Mw_x6000km_z600km is file for left source
+# SOURCE_R_Mw_x6000km_z600km is file for right source
+
+#Frequency Time ANalysis code (aftani_c_pgl_output_amp.Utah) is included for phase travel time measurement 
