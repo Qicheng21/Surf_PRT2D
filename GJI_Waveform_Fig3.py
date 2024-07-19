@@ -5,7 +5,10 @@ Created on Wed Jul 19 14:21:47 2023
 
 @author: u1318104
 """
+'''
+Code for wavefield plot, file size too big... cannot include here
 
+'''
 import matplotlib.pyplot as plt
 from obspy import read
 import numpy as np

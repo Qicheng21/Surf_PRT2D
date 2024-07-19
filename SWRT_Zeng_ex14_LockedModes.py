@@ -24,7 +24,7 @@ from ToParfile_10kmdz_SBD import ReadEMC, Brocher_rho_vp
 # vp,rho=Brocher_rho_vp(tmpVsSRP0)
 
 
-dir_CPS=dir_script+'/CPS/'
+dir_CPS=dir_script+'/CPS_NormalModes/'
 
 def CModelSRP(dir_save,Side='L'):
     # Create Model from Schmandt et al., 2015, two locs in and outside of Snake River Plain
